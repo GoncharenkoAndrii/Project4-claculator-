@@ -1,0 +1,6 @@
+жовт. 31, 2018 12:37:39 PM LogTest div
+SEVERE: Division by zero
+java.lang.ArithmeticException: / by zero
+	at LogTest.div(LogTest.java:11)
+	at LogTest.main(LogTest.java:35)
+
